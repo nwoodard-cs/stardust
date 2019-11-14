@@ -11,7 +11,7 @@ mvn assembly:assembly -DdescriptorId=jar-with-dependencies
 ```
 Run the project with Java
 ```
-java -cp target/Stardust-[version]-jar-with-dependencies.jar
+java -cp target/Stardust-[version]-jar-with-dependencies.jar Stardust
 ```
 ### Build the Project .jar without Dependencies
 
